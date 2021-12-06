@@ -1,4 +1,4 @@
-👋 Hi, I’m Saemi!
+<h2>👋 Hi, I’m Saemi! </h2></br />
 👀 I’m interested in Front-End Developing! 
 🌱 I’m currently learning React
 - 💞️ I’m looking to collaborate on ...
