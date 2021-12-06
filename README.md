@@ -1,5 +1,3 @@
-<h2>👋 Hi, I’m Saemi! </h2></br />
-👀 I’m interested in Front-End Developing! 
-🌱 I’m currently learning React
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+<h2>👋 Hi, I’m Saemi </h2></br />
+👀 I’m interested in Front-End Developing and Interactive development <br /> 
+🌱 I’m currently learning React and Vue <br/>
