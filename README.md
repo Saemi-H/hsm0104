@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/3f5402efef9a0ae89211a6e04609558e862ca616/readme/twitter-fill.svg">
+![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=footer&text=capsule%20render&fontSize=90)
 <h2>👋 Hi, I’m Saemi </h2></br />
 👀 I’m interested in Front-End Developing and Interactive development <br /> 
 🌱 I’m currently learning React and Vue <br/>
