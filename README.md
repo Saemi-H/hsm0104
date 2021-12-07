@@ -33,4 +33,3 @@ Things that I've used more than once.
   <img alt="figma" src="https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white" />
   <img alt="xd" src="https://img.shields.io/badge/-Adobe XD-FF61F6?style=flat-square&logo=Adobe XD&logoColor=white" />
 </p>
-![footer](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=130&section=footer&fontSize=90)
