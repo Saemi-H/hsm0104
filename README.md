@@ -27,6 +27,7 @@ Things that I've used more than once.
   <br>
   <img alt="sass" src="https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=Sass&logoColor=white" />
   <img alt="styled-components" src="https://img.shields.io/badge/-styled components-DB7093?style=flat-square&logo=styled-components&logoColor=black" />
+  <img alt ="vue" src="https://img.shields.io/badge/-Vue-4fc08d?style=flat&logo=Vue.js&logoColor=fff" />
   <img alt="react" src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=React&logoColor=black" />
   <br>
   <img alt="github" src="https://img.shields.io/badge/-Github-313131?style=flat-square&logo=GitHub&logoColor=white" />
