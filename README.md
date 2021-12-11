@@ -36,4 +36,5 @@ Things that I've used more than once.
   <img alt="github" src="https://img.shields.io/badge/-Github-313131?style=flat-square&logo=GitHub&logoColor=white" />
   <img alt="figma" src="https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white" />
   <img alt="xd" src="https://img.shields.io/badge/-Adobe XD-FF61F6?style=flat-square&logo=Adobe XD&logoColor=white" />
+  <img alt="photoshop" src="https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white" />
 </p>
