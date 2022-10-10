@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Saemi&fontSize=90&fontColor=FFD700&animation=twinkling)
 ## Hi, I'm Saemi&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="24">
 I am a <strong>frontend developer</strong> and striving to be an <em>interactive frontend developer</em> 😆<br/>
-<a href="https://www.notion.so/saemihong940104/c734ea141660446d9ad6dec1b79f00d2">Go to My Notion</a>
+👉🏻Go to <a href="https://www.notion.so/saemihong940104/c734ea141660446d9ad6dec1b79f00d2">My Notion</a>
 
 ### Statistics
 
